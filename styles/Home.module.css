@@ -1,0 +1,24 @@
+.container {
+  padding: 0 2rem;
+}
+
+.datas {
+  display: flex;
+  align-items:center;
+  margin: 2rem 0;
+}
+
+.datasBtn {
+  width: 100px;
+  height: 50px;
+}
+
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    background: aliceblue;
+    margin: 0;
+    padding: 1.5rem;
+}
+
